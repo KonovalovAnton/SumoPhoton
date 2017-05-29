@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 1f9bd6143fcad7342985e3c3851da98f
-timeCreated: 1496079621
+timeCreated: 1496081821
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -235,12 +235,12 @@ TextureImporter:
       name: leg_l
       rect:
         serializedVersion: 2
-        x: 736
-        y: 339
-        width: 626
-        height: 431
+        x: 697
+        y: 432
+        width: 485
+        height: 338
       alignment: 9
-      pivot: {x: 0.7716862, y: 0.71355194}
+      pivot: {x: 0.77862686, y: 0.68367445}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -261,10 +261,10 @@ TextureImporter:
       name: leg_r
       rect:
         serializedVersion: 2
-        x: 0
-        y: 389
-        width: 632
-        height: 451
+        x: 4
+        y: 502
+        width: 444
+        height: 323
       alignment: 9
       pivot: {x: 0.7912686, y: 0.30922806}
       border: {x: 0, y: 0, z: 0, w: 0}
